@@ -1,0 +1,27 @@
+{
+  "connection": "default",
+  "collectionName": "products",
+  "info": {
+    "name": "product",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "price": {
+      "type": "decimal"
+    },
+    "name": {
+      "type": "string"
+    },
+    "weight": {
+      "type": "integer"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}
