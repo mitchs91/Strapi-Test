@@ -1,2 +1,3 @@
-# Strapi-Test
-Playing around with Strapi
+# Strapi application
+
+A quick description of your strapi application
